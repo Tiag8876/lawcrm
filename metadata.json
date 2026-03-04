@@ -1,0 +1,5 @@
+{
+  "name": "LawCRM",
+  "description": "Sistema de CRM para escritório de advocacia com gestão de leads, campanhas e sugestões de follow-up com IA.",
+  "requestFramePermissions": []
+}
